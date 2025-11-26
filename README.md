@@ -1,4 +1,4 @@
-## Hi there 👋 i am ali sultanalizadeh
+## Hi there 👋 i am Ali Sultanalizadeh
 
 <!--# Hi there, I'm [Your Name] 👋
 
