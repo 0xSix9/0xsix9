@@ -17,11 +17,12 @@
 ---
 
 # 🧠 About Me
-- Studying core blockchain concepts (consensus, smart contracts, cryptography)  
+- Smart Contract Developer
 - Writing blockchain & smart contract articles on Medium  
 - Learning Rust + Solana tools (Anchor, SPL)  
 - Exploring Web3 and decentralized apps  
-- Goal: **Become a professional Solana Blockchain Developer**
+- Blockchain Researcher
+- Full Stack Web
 
 ---
 
