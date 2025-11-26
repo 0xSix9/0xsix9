@@ -1,16 +1,64 @@
 ## Hi there 👋
 
-<!--
-**0xSix9/0xsix9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# Hi there, I'm [Your Name] 👋
 
-Here are some ideas to get you started:
+I am actively learning and building in the blockchain ecosystem with a strong focus on **Solana development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work includes:
+
+• Studying core blockchain concepts (consensus, smart contracts, cryptography)  
+• Writing educational articles about blockchain and smart contracts on Medium  
+• Learning Rust and Solana development tools (Anchor, Solana Program Library)  
+• Building small practice projects such as token creation, wallet generation tools, and smart contract simulations  
+• Exploring Web3 and decentralized application development  
+
+My goal is to become a **professional Web3 & Blockchain Developer on the Solana network**.
+
+---
+
+## 🌐 Socials:
+📧 Email: **0xsix9@gmail.com**  
+📸 Instagram: **https://www.instagram.com/0xsix9/**  
+💼 LinkedIn: **https://www.linkedin.com/in/ali-sultanalizadeh-74868038b/**  
+
+---
+## 🧰 Tech Stack
+
+### **Languages**
+- HTML & CSS  
+- JavaScript  
+- TypeScript  
+- Rust  
+
+---
+
+### **Front-End**
+- React  
+- Next.js  
+- TailwindCSS  
+
+---
+
+### **Back-End**
+- Node.js  
+- Express.js  
+- Nest.js  
+
+---
+
+### **Libraries**
+- Web3.js  
+- Solana.js  
+- Anchor Client  
+
+---
+
+### **Backend Tools**
+- Prisma  
+- Mongoose  
+
+---
+
+### **Databases**
+- MongoDB  
+- PostgreSQL  
