@@ -1,7 +1,5 @@
 ## Hi there 👋 i am Ali Sultanalizadeh
 
-<!--# Hi there, I'm [Your Name] 👋
-
 I am actively learning and building in the blockchain ecosystem with a strong focus on **Solana development**.
 
 My work includes:
