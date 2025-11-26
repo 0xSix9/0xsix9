@@ -18,7 +18,6 @@
 - Studying core blockchain concepts (consensus, smart contracts, cryptography)  
 - Writing blockchain & smart contract articles on Medium  
 - Learning Rust + Solana tools (Anchor, SPL)  
-- Building small projects (tokens, wallets, smart contract simulations)  
 - Exploring Web3 and decentralized apps  
 - Goal: **Become a professional Solana Blockchain Developer**
 
