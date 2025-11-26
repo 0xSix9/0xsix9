@@ -18,11 +18,10 @@
 
 # 🧠 About Me
 - Smart Contract Developer
+- Full Stack Web
 - Writing blockchain & smart contract articles on Medium  
-- Learning Rust + Solana tools (Anchor, SPL)  
 - Exploring Web3 and decentralized apps  
 - Blockchain Researcher
-- Full Stack Web
 
 ---
 
