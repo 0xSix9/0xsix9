@@ -50,7 +50,7 @@
 ---
 
 ## 📚 Libraries  
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+[![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white)](https://docs.ethers.org/)
 ![Solana.js](https://img.shields.io/badge/Solana.js-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 ![Anchor](https://img.shields.io/badge/Anchor-512DA8?style=for-the-badge&logo=anchor&logoColor=white)
 
