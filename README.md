@@ -18,7 +18,7 @@
 
 # 🧠 About Me
 - Smart Contract Developer
-- Full Stack Web
+- Full Stack Web3
 - Writing blockchain & cryptography articles on Medium  
 - Exploring Web3 and decentralized apps  
 - Blockchain Researcher
